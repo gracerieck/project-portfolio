@@ -1,0 +1,30 @@
+/*Put style here*/
+
+<style>
+    body{
+        background-color: AntiqueWhite;
+        }
+        header{
+          border-bottom-width: 2px;
+          border-bottom-style: solid;
+          }
+        h1{  
+          color: ForestGreen;
+          font-family: cursive;
+          font-size: 30px;
+          }
+        h2{
+          text-align: center;
+          font-family: cursive;
+          color: LightCoral;
+          font-size: 20px;
+          }
+        p{
+          font-family: Arial;
+          font-size: 18px;
+          color: black;
+        }
+</stlye>
+  
+
+/*End style*/
