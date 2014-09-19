@@ -1,30 +1,53 @@
-/*Put style here*/
+/*Put style here
 
-<style>
+Butter Cream #EDE56A
+Faded Lost Boy #67CACC
+Pink Cocolate #E09BB2
+Of Ice and Snow #B7EAC3
+Verd #91F4AC
+
+*/
     body{
-        background-color: AntiqueWhite;
+        background-color: ;
         }
-        header{
-          border-bottom-width: 2px;
-          border-bottom-style: solid;
-          }
         h1{  
-          color: ForestGreen;
+          color:#E09BB2;
           font-family: cursive;
-          font-size: 30px;
+          font-size: 40px;
           }
+
+        .color1{
+          width: 200px;
+          height: 200px;
+          background-color: #67CACC;
+        }
+
+        .color2{
+          width: 200px;
+          height: 200px;
+          background-color: #E09BB2;
+        }
+
+        .color3{
+          width: 200px;
+          height: 200px;
+          background-color: #91F4AC;
+        }
+
         h2{
           text-align: center;
           font-family: cursive;
-          color: LightCoral;
-          font-size: 20px;
+          color: ;
+          font-size: 25px;
           }
         p{
           font-family: Arial;
           font-size: 18px;
-          color: black;
+          color: ;
         }
-</stlye>
-  
-
+        a{
+          color: #E09BB2;
+          font-family: Arial;
+          font-size: 18px;
+        }
 /*End style*/
