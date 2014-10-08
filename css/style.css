@@ -7,13 +7,15 @@ Of Ice and Snow #B7EAC3
 Verd #91F4AC
 
 */
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
     body{
         background-color: ;
+        font-family: 'Shadows Into Light', cursive;
         }
         header{
-          background-color: #dddddd
-          widthociryy4me
-              : 60%;
+          background-color: #dddddd;
+          width: 60%;
           margin-left: auto;
           margin-right: auto;
           text-align: center;
@@ -21,7 +23,7 @@ Verd #91F4AC
         }
         h1{  
           color:#E09BB2;
-          font-family: Ariel;
+          font-family: ;
           font-size: 40px;
           }
         .colorsquare{
@@ -41,12 +43,12 @@ Verd #91F4AC
         }
         h2{
           text-align: center;
-          font-family: cursive;
+          font-family: ;
           color: ;
           font-size: 25px;
           }
         p{
-          font-family: Arial;
+          font-family: ;
           font-size: 18px;
           color: ;
         }
