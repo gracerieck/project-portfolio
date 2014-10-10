@@ -62,8 +62,7 @@ header{
   width: 60%;
   margin: 20px auto;
   padding: 20px;
-  background-color: pink;
-  opacity: .8;
+  background-color: rgba(255, 192, 203, 0.77);
   
 }
 
