@@ -1,0 +1,68 @@
+/*Put style here
+
+Butter Cream #EDE56A
+Faded Lost Boy #67CACC
+Pink Cocolate #E09BB2
+Of Ice and Snow #B7EAC3
+Verd #91F4AC
+
+*/
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+    body{
+        font-family: 'Shadows Into Light', cursive;
+        background-image: url('../images/brickwall/brickwall.png');
+        padding: 10%;
+        }
+
+        header{
+          background-color: #dddddd;
+          width: 60%;
+          margin-left: auto;
+          margin-right: auto;
+          text-align: center;
+          padding: 1px;
+        }
+
+        h1{  
+          color:#CB28FF;
+          font-size: 60px;
+          text-align: center;
+          }
+        
+        h2{
+          text-align: center;
+          color: #E471E8;
+          font-size: 35px;
+          }
+
+        h3{
+          color: #FF0BB4;
+          font-size: 28px;
+        }
+
+        p{
+          font-family: sans-serif;
+          font-size: 2em;
+          color: black;
+        }
+
+        .college, .highschool {
+          font-family: 'Shadows Into Light', cursive;
+        }
+
+        /* a{
+          color: #E09BB2;
+          font-family: sans-serif;
+          font-size: 18px;
+        } */
+
+        footer{
+          font-size: 2em;
+          color: #CB28FF;
+          text-decoration: none;
+          background-color: #dddddd;
+          text-align: center;
+        }
+
+/*End style*/
