@@ -1,0 +1,48 @@
+/*Put style here
+
+Butter Cream #EDE56A
+Faded Lost Boy #67CACC
+Pink Cocolate #E09BB2
+Of Ice and Snow #B7EAC3
+Verd #91F4AC
+
+*/
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+body{
+    background-color: ;
+    font-family: 'Shadows Into Light', cursive;
+    background-image: url('../images/microphone-radio-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    font-size: 50px;
+}
+
+h1 {
+    color: white;
+    padding: 5px;
+    margin-bottom: auto;
+    margin-top: auto
+}
+
+h2 {
+    color: white;
+    padding: 5px;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.fa fa-facebook, .fa fa-twitter, .fa fa-instagram {
+    color: white;
+}
+
+
