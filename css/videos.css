@@ -28,7 +28,6 @@ Verd #91F4AC
         }
         h1{  
           color:#E09BB2;
-          font-family: ;
           font-size: 4em;
           }
         h2{
@@ -43,7 +42,7 @@ Verd #91F4AC
           font-size: 2em;
         }
         h4 {
-          color: #67CACC;
+          color: #91F4AC;
           font-size: 1.5em;
         }
         p{
@@ -58,14 +57,12 @@ Verd #91F4AC
         }
         a{
           font-size: 1em;
-          color: #91F4AC;
-          font-family: ;
+          color: #E09BB2;
           text-decoration: none;
         }
         a:hover{
           font-size: 1em;
           color: #E09BB2;
-          font-family: ;
           text-decoration: underline;
         }
 /*End style*/
