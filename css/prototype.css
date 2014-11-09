@@ -1,0 +1,35 @@
+/*Put style here
+
+Butter Cream #EDE56A
+Faded Lost Boy #67CACC
+Pink Cocolate #E09BB2
+Of Ice and Snow #B7EAC3
+Verd #91F4AC
+
+*/
+@import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+
+body{
+    background-color: ;
+    font-family: 'Shadows Into Light', cursive;
+    background-image: url('../images/diagmonds/diagmonds.png');
+    }
+
+.images{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    }
+    .home{
+        border: black dotted;
+        }
+    .resume{
+        border: black dotted;
+        }
+    .writing{
+        border: black dotted;
+        }
+    .about{
+        border: black dotted;
+        }
