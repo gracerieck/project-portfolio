@@ -10,37 +10,33 @@ Verd #91F4AC
 @import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
 body {
-    background-color: ;
     /*font-family: 'Shadows Into Light', cursive;*/
-    background-image: url('../images/diagmonds/diagmonds.png');
+    background-image: url('../images/brickwall/brickwall.png');
     }
-
 h1 {
-    color:#67CACC;
-    font-size: 2em;
+    color: #67CACC;
+    font-size: 3em;
+    text-align: center;
     }
-
 p {
-    color:#91F4AC;
+    color: #E09BB2;
     font-size: 1.5em;
     }
-
-
-.images {
-    width: 30px;
-    height: 30px;
+.scaled-image {
+    width: 35px;
+    height: 35px;
     display: inline-block;
     text-align: center;
     }
-    .home {
-        border: 5px dotted #E09BB2;
-        }
-    .resume {
-        border: 5px dotted #E09BB2;
-        }
-    .writing {
-        border: 5px dotted #E09BB2;
-        }
-    .about {
-        border: 5px dotted #E09BB2;
-        }
+.home {
+    border: 5px dotted #91F4AC;
+}
+.resume {
+    border: 5px dotted #91F4AC;
+}
+.writing {
+    border: 5px dotted #91F4AC;
+}
+.about {
+    border: 5px dotted #91F4AC;
+}
