@@ -22,21 +22,27 @@ p {
     color: #E09BB2;
     font-size: 1.5em;
     }
-.scaled-image {
-    width: 35px;
-    height: 35px;
-    display: inline-block;
-    text-align: center;
-    }
 .home {
+    width: 250px;
+    height: auto;
     border: 5px dotted #91F4AC;
+    display: inline-block;
 }
 .resume {
+    width: 250px;
+    height: auto;
     border: 5px dotted #91F4AC;
+    display: inline-block;
 }
 .writing {
+    width: 250px;
+    height: auto;
     border: 5px dotted #91F4AC;
+    display: inline-block;
 }
 .about {
+    width: 250px;
+    height: auto;
     border: 5px dotted #91F4AC;
+    display: inline-block;
 }
