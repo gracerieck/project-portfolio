@@ -11,7 +11,8 @@ Verd #91F4AC
 
 body{
     font-family: 'Shadows Into Light', cursive;
-    background-image: url('../images/diagmonds/diagmonds.png');
+    /*background-image: url('../images/diagmonds/diagmonds.png');*/
+    background-color: #EDE56A;
     }
     header{
         background-color: #91F4AC;
@@ -65,7 +66,7 @@ body{
         font-size: 18px;
         }
     ul{
-        list-style: none;
+        list-style: circle;
         }
     .main {
         background-color: #eeeeee;
@@ -85,8 +86,9 @@ body{
         }
     .site-footer {
         background-color: #eeeeee;
+        text-align: center;
         width: 100%;
-        height: 200px;
+        height: 50px;
         float: inherit;
         display: inline-block;
         border: 5px solid #91F4AC;
