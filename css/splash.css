@@ -63,4 +63,7 @@ p {
     text-decoration: underline;
 }
 
-
+ul {
+    color: black;
+    list-style: none;
+    }
